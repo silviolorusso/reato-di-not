@@ -18,7 +18,9 @@ function generator() {
     'cyber',
     'solar',
     'lunar',
-    'neuro'
+    'neuro',
+    'realismo',
+    'aperi'
   ]
 
   var suffixes = [
