@@ -11,8 +11,14 @@ function generator() {
     'imprendi',
     'necro',
     'ufo',
-    'futuro',
+    'futuro ',
     'ballard',
+    'realismo ',
+    'meta',
+    'cyber',
+    'solar',
+    'lunar',
+    'neuro',
     'realismo',
     'aperi'
   ]
@@ -31,7 +37,9 @@ function generator() {
     'futuro',
     'oggetti',
     'complotto',
-    'visionarie'
+    'visionarie',
+    'tardo capitalismo',
+    'pangalattico'    
   ]
 
   var prefix = prefixes[Math.floor(Math.random()*prefixes.length)];
