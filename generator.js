@@ -13,7 +13,8 @@ function generator() {
     'ufo',
     'futuro',
     'ballard',
-    'realismo'
+    'realismo',
+    'aperi'
   ]
 
   var suffixes = [
