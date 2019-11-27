@@ -45,7 +45,8 @@ function generator() {
     'politica',
     'liberismo',
     'comunismo',
-    'patia'
+    'patia',
+    'caos'
   ]
 
   var prefix = prefixes[Math.floor(Math.random()*prefixes.length)];
