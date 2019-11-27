@@ -20,7 +20,7 @@ function generator() {
     'lunar',
     'neuro',
     'realismo',
-    'aperi'
+    'aperi',
     'psico'
   ]
 
@@ -40,8 +40,8 @@ function generator() {
     'complotto',
     'visionarie',
     'tardo capitalismo',
-    'pangalattico'
-    'politica'  
+    'pangalattico',
+    'politica'
   ]
 
   var prefix = prefixes[Math.floor(Math.random()*prefixes.length)];
