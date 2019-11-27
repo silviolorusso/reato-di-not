@@ -21,7 +21,8 @@ function generator() {
     'neuro',
     'realismo',
     'aperi',
-    'psico'
+    'psico',
+    'anarco'
   ]
 
   var suffixes = [
@@ -41,7 +42,10 @@ function generator() {
     'visionarie',
     'tardo capitalismo',
     'pangalattico',
-    'politica'
+    'politica',
+    'liberismo',
+    'comunismo',
+    'patia'
   ]
 
   var prefix = prefixes[Math.floor(Math.random()*prefixes.length)];
