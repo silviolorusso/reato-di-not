@@ -11,9 +11,8 @@ function generator() {
     'imprendi',
     'necro',
     'ufo',
-    'futuro ',
+    'futuro',
     'ballard',
-    'realismo ',
     'meta',
     'cyber',
     'solar',
@@ -22,7 +21,14 @@ function generator() {
     'realismo',
     'aperi',
     'psico',
-    'anarco'
+    'anarco',
+    'geo',
+    'disagio',
+    'turbo',
+    'proto',
+    'vetero',
+    'neo',
+    'demono'
   ]
 
   var suffixes = [
@@ -45,9 +51,17 @@ function generator() {
     'politica',
     'liberismo',
     'comunismo',
+    'socialismo',
+    'proletariato',
     'patia',
     'caos',
-    'classe disagiata'
+    'classe disagiata',
+    'topia',
+    'manzia',
+    'occultismo',
+    'logia',
+    'catastrofe',
+    'umanismo'
   ]
 
   var prefix = prefixes[Math.floor(Math.random()*prefixes.length)];
@@ -56,8 +70,7 @@ function generator() {
   var title = prefix + suffix;
 
   document.getElementById('title').innerHTML = title;
-
-  console.log('title');
+  document.getElementById('preorder').setAttribute("href", "https://www.ibs.it/search/?ts=as&query=" + title);
 
 }
 

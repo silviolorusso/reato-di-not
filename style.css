@@ -25,6 +25,7 @@ h1, h2 {
 h1 {
   font-family: 'Bebas Neue', cursive;
   font-size: 700%;
+  margin-bottom: 20px;
 }
 
 h2 {
@@ -39,6 +40,16 @@ button {
   cursor: pointer;
 }
 
+small {
+  display: block;
+  margin-bottom: 60px;
+}
+
+small a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 1px solid white;
+}
 
 @media (min-width: 320px) and (max-width: 480px) {
 
