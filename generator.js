@@ -28,7 +28,8 @@ function generator() {
     'proto',
     'vetero',
     'neo',
-    'demono'
+    'demono',
+    'corona'
   ]
 
   var suffixes = [
