@@ -82,7 +82,12 @@ function generator() {
     'occultismo',
     'logia',
     'catastrofe',
-    'umanesimo'
+    'umanesimo',
+    'plastico',
+    'verso',
+    'normale',
+    'situazione',
+    'cose'
   ]
 
   var prefix = prefixes[Math.floor(Math.random()*prefixes.length)];
