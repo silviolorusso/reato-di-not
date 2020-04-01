@@ -29,7 +29,27 @@ function generator() {
     'vetero',
     'neo',
     'demono',
-    'corona'
+    'corona',
+    'feudo',
+    'omni',
+    'esa',
+    'penta',
+    'tetra',
+    'novo',
+    'contra',
+    'infra',
+    'intra',
+    'avio',
+    'trans',
+    'onico',
+    'gastro',
+    'pneumo',
+    'orto',
+    'alea',
+    'supra',
+    'alveo',
+    'non'
+
   ]
 
   var suffixes = [
