@@ -51,7 +51,7 @@ function generator() {
     'non',
     'perma',
     'oniro'
-  ]
+  ];
 
   var suffixes = [
     'fagia',
