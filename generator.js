@@ -48,7 +48,9 @@ function generator() {
     'alea',
     'supra',
     'alveo',
-    'non'
+    'non',
+    'perma',
+    'oniro'
 
   ]
 
@@ -87,7 +89,12 @@ function generator() {
     'verso',
     'normale',
     'situazione',
-    'cose'
+    'cose',
+    'crisi'
+    'collasso',
+    'oggetto',
+    'messianismo',
+    'soluzionismo'
   ]
 
   var prefix = prefixes[Math.floor(Math.random()*prefixes.length)];
