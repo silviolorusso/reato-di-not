@@ -89,7 +89,7 @@ function generator() {
     'normale',
     'situazione',
     'cose',
-    'crisi'
+    'crisi',
     'collasso',
     'oggetto',
     'messianismo',
