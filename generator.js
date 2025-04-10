@@ -51,7 +51,8 @@ function generator() {
     'non',
     'perma',
     'oniro',
-    'ipno'
+    'ipno',
+    'meme'
   ];
 
   var suffixes = [
@@ -94,7 +95,10 @@ function generator() {
     'collasso',
     'oggetto',
     'messianismo',
-    'soluzionismo'
+    'soluzionismo',
+    'estetica',
+    'mania',
+    'patriarcato'
   ]
 
   var prefix = prefixes[Math.floor(Math.random()*prefixes.length)];
