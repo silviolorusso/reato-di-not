@@ -50,7 +50,8 @@ function generator() {
     'alveo',
     'non',
     'perma',
-    'oniro'
+    'oniro',
+    'ipno'
   ];
 
   var suffixes = [
