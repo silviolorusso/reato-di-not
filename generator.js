@@ -98,7 +98,9 @@ function generator() {
     'soluzionismo',
     'estetica',
     'mania',
-    'patriarcato'
+    'patriarcato',
+    'fascismo',
+    'genesi'
   ]
 
   var prefix = prefixes[Math.floor(Math.random()*prefixes.length)];
